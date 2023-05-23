@@ -12,6 +12,7 @@ const projectItem = projects.map((projectObj) => {
     <div id="projects">
       <h2>My Projects</h2>
       <div id="project-list">{projectItem}</div>
+      
     </div>
   );
 }
